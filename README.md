@@ -1,2 +1,2 @@
 # LeetCode-Algorithm
-leetcode 코테 정복 뿌시기!! 🔥🔥🔥
+📚 leetcode 알고리즘 
